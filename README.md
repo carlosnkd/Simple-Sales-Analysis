@@ -19,5 +19,5 @@ The data contains hundreds of thousands of electronic store purchases on the US 
 * Feature Engineering
 * Get more info from the data column (date, hour, week day, month name, etc...)
 
-#### Plot the results ahd keep digging 
+#### Plot the results and keep digging 
 * Sales vs quantity sold per product
